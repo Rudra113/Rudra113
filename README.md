@@ -10,7 +10,7 @@
 
 * 💻 I'm currently a **Student** at **College Of Basic Science & Humanities,BBSR**.
 * 🌱 I'm currently focused on expanding my knowledge in **[AI & Cloud Services]**.
-* 📫 How to reach me: **[rudraranjanmohanty@gmail.com]**
+* 📫 How to reach me: **[rudraranjanmohanty@gmail.com**
 * ⚡ Fun fact: **I can speak three languages fluently, but none of them are programming languages**.
 
 ---
