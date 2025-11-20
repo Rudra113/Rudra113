@@ -18,7 +18,7 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rudra-ranjan-mohanty)
-[![Twitter](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([YOUR_TWITTER_URL](https://x.com/r_u_d_r_a__01))
+[![Twitter](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/r_u_d_r_a__01)
 <!-- [![Portfolio](https://img.shields.io/badge/portfolio%20-%23000000.svg?&style=for-the-badge&logo=kofi&logoColor=white)](YOUR_PORTFOLIO_URL) -->
 
 ---
